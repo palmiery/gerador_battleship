@@ -79,7 +79,7 @@ int main(int argc, const char * argv[]) {
 	outFile.close();
 	
 
-	// Libera memória utilizaa por f
+	// Libera memória utilizaa por mat
 	delete []mat; 
 	
     return 0;
