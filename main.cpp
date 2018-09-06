@@ -26,7 +26,7 @@ int main(int argc, const char * argv[]) {
 
 	// Checa quantidade de argumentos passados por linha de comando
     if(argc != 4){
-        std::cout << "Erro, tente novamente. Exemplo de entrada: ./search 50 " << std::endl;
+        std::cout << "Erro, tente novamente. Exemplo de entrada: ./program 10 10 10 " << std::endl;
         return -1;
     }   
 	// Número de puzzles
